@@ -1,13 +1,12 @@
 package com.coforge.gitexample123;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println("Har Har Mahadev" );
+        System.out.println("Richa Rastogi" );
+        
     }
 }
